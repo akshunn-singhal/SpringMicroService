@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="shared-library-kafka" value="shared-library (1) (com.harman.shared)" />
+      </map>
+    </option>
+  </component>
+</project>
